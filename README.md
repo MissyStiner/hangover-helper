@@ -53,5 +53,3 @@ THEN my order is ready to be submitted to be ordered
 <img src="./assets/images/wireframe.PNG">
 
 ## Screenshots
-
-test
