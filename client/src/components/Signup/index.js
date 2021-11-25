@@ -75,10 +75,19 @@ export default function Signup (props) {
               <form onSubmit={handleFormSubmit}>
                 <input
                   className="form-input"
-                  placeholder="Your username"
-                  name="username"
+                  placeholder="First Name"
+                  name="first-name"
                   type="text"
-                  id="username"
+                  id="fisr-name"
+                  onChange={handleChange}
+                  required
+                />
+                <input
+                  className="form-input"
+                  placeholder="Last Name"
+                  name="last-name"
+                  type="text"
+                  id="last-name"
                   onChange={handleChange}
                   required
                 />
