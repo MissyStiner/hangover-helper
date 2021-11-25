@@ -18,14 +18,14 @@ I WANT a quick and easy way to order food combos<br>
 SO THAT I can be on the mend for another night of fun!
 
 ## Acceptance Criteria
-GIVEN a single-page application that accepts user input
-WHEN I go to the menu
-THEN I am able to select a delicious combo
-WHEN I select my combo
-THEN I need to enter my contact information
-WHEN I enter my contact information in the provided fields
-THEN I need to enter my secure payment information
-WHEN I enter my payment information
+GIVEN a single-page application that accepts user input<br>
+WHEN I go to the orders page<br>
+THEN I am able to select a delicious combo<br>
+WHEN I select my combo<br>
+THEN I need to enter my contact information<br>
+WHEN I enter my contact information in the provided fields<br>
+THEN I need to enter my secure payment information<br>
+WHEN I enter my payment information<br>
 THEN my order is ready to be submitted to be ordered
 
 ## Contributions
@@ -49,7 +49,18 @@ THEN my order is ready to be submitted to be ordered
 - La Croix photo by <a href="https://unsplash.com/@chrisabney?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Chris Abney</a> on <a href="https://unsplash.com/s/photos/soda?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 - Dr. Pepper photo by <a href="https://unsplash.com/@katherine1690?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Katherine Kromberg</a> on <a href="https://unsplash.com/s/photos/soda?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-## Wireframe
-<img src="./assets/images/wireframe.PNG">
+## Inspiration
+![image](https://user-images.githubusercontent.com/85651869/143375239-8a4df314-ec16-4702-b6ca-20e90060277a.png)
 
 ## Screenshots
+- About
+![image](https://user-images.githubusercontent.com/85651869/143374875-760b932d-01b2-4347-8eb1-c176878a4c39.png)
+- Order
+![image](https://user-images.githubusercontent.com/85651869/143374963-a5a46c8e-ad6d-434f-9681-c8f7b81982ec.png)
+- Sign Up
+![image](https://user-images.githubusercontent.com/85651869/143375015-7c690b79-04fb-4c3e-91da-615fe49c5ae9.png)
+- Log In
+![image](https://user-images.githubusercontent.com/85651869/143375102-bf90ccb1-3acc-48dc-b783-4160d6f9153d.png)
+
+## Wireframe
+![image](https://user-images.githubusercontent.com/85651869/143375469-47ac2188-6265-45bc-baf4-95a95192fc36.png)
