@@ -60,7 +60,7 @@ Finding delicious, greasy/nutritious food for hangovers.
 ## Contact
 Email : <a href="mailto:cody.mccray87@gmail.com">cody.mccray87@gmail.com</a>
 <br/>
-Github : <a href="https://github.com/cmccray87">cmccray87</a>
+Github : <a href="https://github.com/MissyStiner">MissyStiner</a>
 
 ## Image Credits
 - Pho photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/s/photos/pho?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
