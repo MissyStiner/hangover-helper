@@ -9,7 +9,7 @@ function About() {
         Rough night? You’ve come to the right place to start your recovery!
         </p>
         <p>
-        When someone says, “Beer me!” you hand them a beer. When someone says, “Feed me!” you hand them Hunger-Mate!
+        When someone says, “Beer me!” you hand them a beer. When someone says, “Feed me!” you hand them Hunger Mate!
         </p>
         <p>
         Our options are simple with a one-click food and drink combo. Sign up today to get your order on the way!
@@ -17,7 +17,7 @@ function About() {
       <Image src={ require("../../assets/images/delivery.jpg") } />
       </div>
       <div>
-        <h2>Meet Our Drivers, Riders &amp; Flyers</h2>
+        <h2>Meet Our Drivers</h2>
         <p>
           <ul>
             <li>David <span role="img" aria-label="car emoji">&#128663;</span></li>
